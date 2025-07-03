@@ -55,7 +55,7 @@ Although it was a team project, I was fully responsible for the **coding and tec
 
 This project is based on an open-source notebook available at:
 
-🔗 [Original Project on Kaggle](https://www.kaggle.com/code/syedali110/heart-disease-detection/notebook))
+🔗 [Original Project on Kaggle](https://www.kaggle.com/code/syedali110/heart-disease-detection/notebook)
 
 We extended the original code by testing multiple models, comparing results, and improving performance.
 
