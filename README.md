@@ -44,7 +44,7 @@ Although it was a team project, I was fully responsible for the **coding and tec
 
 ## 📂 Dataset
 
-- 📌 Source: [Kaggle – Heart Disease Dataset]([https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset))
+- 📌 Source: [Kaggle – Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - 🧪 Samples: 1,025
 - 📈 Features: 14 health-related columns
 - 🎯 Target: 0 = No disease, 1 = Has disease
@@ -55,7 +55,7 @@ Although it was a team project, I was fully responsible for the **coding and tec
 
 This project is based on an open-source notebook available at:
 
-🔗 [Original Project on Kaggle]([https://www.kaggle.com/code/syedsaqib1101/heart-disease-prediction-using-machine-learning](https://www.kaggle.com/code/syedali110/heart-disease-detection/notebook))
+🔗 [Original Project on Kaggle](https://www.kaggle.com/code/syedali110/heart-disease-detection/notebook))
 
 We extended the original code by testing multiple models, comparing results, and improving performance.
 
